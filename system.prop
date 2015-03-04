@@ -2,5 +2,12 @@
 # system.prop for find7
 #
 
+ro.device.screen_res=1080x1920
 ro.sf.lcd_density=480
 ro.oppo.device=find7
+
+# Hardware Information
+ro.device.gpu=Adreno 330
+ro.device.rear_cam=13 MP
+ro.device.front_cam=5 MP
+ro.device.screen_res=1080x1920
