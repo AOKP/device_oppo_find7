@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_find7.mk
+    $(LOCAL_DIR)/aokp_find7.mk
